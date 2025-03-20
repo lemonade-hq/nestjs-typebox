@@ -1,5 +1,5 @@
 {
-    "name": "nestjs-typebox",
+    "name": "@lemonade-hq/nestjs-typebox",
     "version": "4.0.0-next.1",
     "description": "",
     "author": "Andrew Smiley <jayalfredprufrock@gmail.com>",
@@ -62,6 +62,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jayalfredprufrock/nestjs-typebox"
+        "url": "https://github.com/lemonade-hq/nestjs-typebox.git"
     }
 }
